@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    color: rgb(220, 11, 11);
+
+}
+.heading{
+    font-size: 24px;
+    width: 80%;
+}
+.name_of_objects,#result_obect_name,#result_object_accuracy{
+    color: rgb(216, 223, 17);
+}
+#camera,#result{
+    border: 3px ridge black;
+    width: 350px;
+    height: 350px;
+}
